@@ -7,4 +7,10 @@ the robot’s surroundings are represented by depth data from an onboard 3D-LiDA
 - The framework for testing and simulation is also in this repo
 
 
+The MPC setup is created using YALMIP. To be able to run this project the Yalmip toolbox need to be added to Matlab. The toolbox can be found at: https://yalmip.github.io/
+
+The MSS toolbox found at https://github.com/cybergalactic/MSS is also used.
+
+
+
 
